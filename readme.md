@@ -1,6 +1,5 @@
 # EdgeStash | 一款全新的Cloudflare R2云盘，支持带密码分享、查看下载量、管理用户等功能
 
-<!-- ![EdgeStash UI](https://i.imgur.com/your-screenshot-url.png)  -->
 
 **EdgeStash** 是一个功能强大、易于部署的私有云盘解决方案，完全构建在 Cloudflare 的全球网络之上。它利用 **Cloudflare Workers**、**R2 存储** 和 **KV 存储**，为您提供一个安全、快速且低成本的个人或团队文件存储与分享平台。
 
@@ -18,6 +17,8 @@ EdgeStash**支持带密码分享文件、在线预览docx或pdf文档、后台�
 | ![Demo](.//imgs/1.png) | ![Demo](./imgs/2.png) |
 | ![Demo](.//imgs/3.png) | ![Demo](./imgs/4.png) |
 
+### 视频：功能快速预览 + 部署教程
+https://www.bilibili.com/video/BV1s2FPzqEdA/
 
 ## ✨ 核心特性
 
