@@ -145,8 +145,9 @@ EdgeStash 通过一套 RESTful API 提供服务，以下是核心接口列表。
 ## 📜 开源协议
 
 本项目采用 **MIT License** 开源。
-
 您可以自由地使用、修改、分发本项目的代码，但需要在您的衍生作品中包含原始的版权和许可声明。
 
 ---
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=hhy-2021/EdgeStash&type=date&legend=top-left)](https://www.star-history.com/#hhy-2021/EdgeStash&type=date&legend=top-left)
